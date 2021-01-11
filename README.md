@@ -9,7 +9,7 @@ This assignment I had a very difficult time trying to troubleshoot to get my Pi 
 
 ## Dice Roller
 ### Pictures
-![Dice_roller](images/Dice_roller.png)
+![Dice_roller](Dice_roller.png)
 ### Lesson.
 This assignment I coded the Pi to roll a dice on its own. How it works is you press enter and a random number is then displayed on the screen ranging 1 through 6, just like dice. I had a problem trying to figure out how to run the code. I then figured out you needed to type Python3 to run code in the nano.  
 
