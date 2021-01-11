@@ -15,6 +15,7 @@ This assignment I coded the Pi to roll a dice on its own. How it works is you pr
 
 ## Calculator
 ### Pictures
+![Calculator_pi](Images/Calculator_pi.png)
 ### Lesson
 This assignment I made a calculator that finds the sum, difference, product, quotient, and remainder. How it works is you enter 2 numbers and it takes them and adds, subtracts, multiplies, and divides them by each other, then displays the values on the screen. I had trouble getting my if statement to work and I realized it was because of a small mistake using one = instead of two. 
 
