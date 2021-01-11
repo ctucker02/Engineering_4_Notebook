@@ -21,6 +21,7 @@ This assignment I made a calculator that finds the sum, difference, product, quo
 
 ## Quadratic Solver
 ### Pictures
+![Quadratic_solver](Images/Quadratic_solver.png)
 ### Lesson
 This assignment I created a program to solve a quadratic equation, given the roots or stating that there is none. How it works is you enter three values and the solver takes them and finds the roots between them. If there are none it says no real roots. I had trouble figuring out how to make an array, but after browsing the web and talking to friends I figured it out. 
 
