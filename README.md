@@ -33,11 +33,13 @@ This assignment uses arrays to display words you type out, spaced out line by li
 
 ## MSP
 ### Pictures
-![hangman](Images/hangmann.png)
+![hangman](Images/hangman.png)
 ### Lesson
-
+This assignment was to code a program to allow someone to play the game hangman. There are 5 options of words that the answer could be. With each letter wrong the hangman slowly gets smaller until you run out of guesses or win the game.  
 
 ## GPIO Pins
 ### Pictures
 ![GPIOpins](Images/GPIOpins.jpg)
+![GPIOpins](Images/GPIOpins2.jpg)
 ### Lesson
+This assignment was to set up the T-cobbler and LEDs to make them blink ten times. At first I had trouble getting it to work but I then figured out it was because I had my cobbler backwards. 
