@@ -31,8 +31,13 @@ This assignment I created a program to solve a quadratic equation, given the roo
 ### Lesson
 This assignment uses arrays to display words you type out, spaced out line by line. How it works is you type a sentence, and the Pi takes it and spaces each letter out on each line, with a dash indicating spaces. I had trouble figuring out how to make them split between lines but I figured it out using a split function. 
 
-
 ## MSP
+### Pictures
+![hangman](Images/hangmann.png)
+### Lesson
+
+
+## GPIO Pins
 ### Pictures
 ![GPIOpins](Images/GPIOpins.jpg)
 ### Lesson
