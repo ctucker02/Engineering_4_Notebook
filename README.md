@@ -34,5 +34,5 @@ This assignment uses arrays to display words you type out, spaced out line by li
 
 ## MSP
 ### Pictures
-![GPIOpin](Images/GPIOpin.jpg)
+![GPIOpins](Images/GPIOpins.jpg)
 ### Lesson
