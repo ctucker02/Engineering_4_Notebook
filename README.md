@@ -39,6 +39,6 @@ This assignment was to code a program to allow someone to play the game hangman.
 
 ## GPIO Pins
 ### Pictures
-![GPIOpins](Images/GPIOpins2.jpg)
+![GPIOpins](Images/GPIOpins.jpg)
 ### Lesson
 This assignment was to set up the T-cobbler and LEDs to make them blink ten times. At first I had trouble getting it to work but I then figured out it was because I had my cobbler backwards. 
