@@ -30,3 +30,15 @@ This assignment I created a program to solve a quadratic equation, given the roo
 ![Strings_Loops](Images/Strings_Loops.png)
 ### Lesson
 This assignment uses arrays to display words you type out, spaced out line by line. How it works is you type a sentence, and the Pi takes it and spaces each letter out on each line, with a dash indicating spaces. I had trouble figuring out how to make them split between lines but I figured it out using a split function. 
+
+## MSP
+### Pictures
+![hangman](Images/hangman.png)
+### Lesson
+This assignment was to code a program to allow someone to play the game hangman. There are 5 options of words that the answer could be. With each letter wrong the hangman slowly gets smaller until you run out of guesses or win the game.  
+
+## GPIO Pins
+### Pictures
+![GPIOpins](Images/GPIOpins.jpg)
+### Lesson
+This assignment was to set up the T-cobbler and LEDs to make them blink ten times. At first I had trouble getting it to work but I then figured out it was because I had my cobbler backwards. 
