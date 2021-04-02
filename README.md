@@ -45,6 +45,6 @@ This assignment was to set up the T-cobbler and LEDs to make them blink ten time
 
 ## GPIO Python
 ### Pictures
-![GPIOpins](Images/GPIOpins.jpg)
+![GPIOpins](Images/GPIOpins.jpg) ![GPIOPypic](Images/GPIOPypic.png)
 ### Lesson
 This assignment was to make the LEDs blink using a more sophisticated and clean script called fancy python. Very similar to previous assignment
