@@ -42,3 +42,9 @@ This assignment was to code a program to allow someone to play the game hangman.
 ![GPIOpins](Images/GPIOpins.jpg)
 ### Lesson
 This assignment was to set up the T-cobbler and LEDs to make them blink ten times. At first I had trouble getting it to work but I then figured out it was because I had my cobbler backwards. 
+
+## GPIO Python
+### Pictures
+![GPIOpins](Images/GPIOpins.jpg)
+### Lesson
+This assignment was to make the LEDs blink using a more sophisticated and clean script called fancy python. Very similar to previous assignment
